@@ -1,6 +1,6 @@
 # 🗄️⚙️ MongoDB Seeder
 
-Database seeding script written in JavaScript using Faker.js to generate large volumes of realistic fake data for testing and master’s thesis development.
+Database seeding script written in JavaScript using Faker.js to generate large volumes of realistic fake data for testing and master’s dissertation development.
 
 ## 👨‍💻 Technologies
 
